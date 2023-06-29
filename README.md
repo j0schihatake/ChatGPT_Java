@@ -1,2 +1,2 @@
 # ChatGPT_Java
-ChatGpt + java + maven
+ChatGPT + java + maven
