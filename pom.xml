@@ -8,7 +8,7 @@
 		<version>3.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>chatgpt.con</groupId>
+	<groupId>chatgpt</groupId>
 	<artifactId>chatgpt_con</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chatgpt_con</name>
