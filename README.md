@@ -1,2 +1,2 @@
 # ChatGPT_Java
-ChatGPT + java + maven
+Baeldung: ChatGPT + java + maven
